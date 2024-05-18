@@ -41,4 +41,4 @@ Please check out [the demo](https://daniel-szulc.github.io/angular-currency-conv
 
 ## License
 
-MIT © [Daniel Szulc](https://github.com/daniel-szulc/angular-currency-converter/blob/master/LICENSE.md)
+MIT © Prajwal Yadav
