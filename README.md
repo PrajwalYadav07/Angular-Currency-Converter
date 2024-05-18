@@ -15,13 +15,7 @@
 💱 A simple currency converter created using Angular 14 💵.
 The project gets the currency rate from [ExchangeRate-API](https://www.exchangerate-api.com/docs/free).
 
-Please check out [the demo](https://daniel-szulc.github.io/angular-currency-converter).
 
-## Screenshots
-
-<img src="/screenshot1.png" alt="Currency converter"/>
-
-<img src="/screenshot2.png" alt="Currency converter"/>
 
 ## Features
 
@@ -37,7 +31,7 @@ Please check out [the demo](https://daniel-szulc.github.io/angular-currency-conv
 
 ## Try It
 
-🔗 [daniel-szulc.github.io/angular-currency-converter](https://daniel-szulc.github.io/angular-currency-converter)
+🔗 (https://github.com/PrajwalYadav07/Angular-Currency-Converter/)
 
 ## License
 
